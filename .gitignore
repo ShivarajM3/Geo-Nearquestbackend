@@ -1,0 +1,11 @@
+# Environments and Secrets
+.env
+
+# Python caching
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Local Database fallback
+geo_nearquest.db
